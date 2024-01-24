@@ -1,6 +1,6 @@
 ![Untitled](https://github.com/tulika1508/Inkyy/assets/97580039/6b2f5c43-7e60-4d68-b3a5-1957778bf7df)
 
-A Real-Time Collaborative Whiteboard Web App built with NodeJs and Socket.IO
+A Real-Time Collaborative Whiteboard Web App built with ReactJs,NodeJs and Socket.IO
 ---
 Features
 ---
