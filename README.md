@@ -17,3 +17,16 @@ The tech stacks used in this project:
 * Javascript
 * Bootstrap
 
+Working Pictures
+---
+* Generating room id page:
+
+![image](https://github.com/tulika1508/Inkyy/assets/97580039/9b1bc120-88ae-4012-8b42-4f389f438785)
+
+* White-board Page:
+  
+![image](https://github.com/tulika1508/Inkyy/assets/97580039/fc16dae2-6b96-4763-8d5b-616acb4a3ad0)
+
+* Feature-No of users:
+  
+![image](https://github.com/tulika1508/Inkyy/assets/97580039/265e69ed-8592-4fe5-9d54-fa52c9ac0e04)
